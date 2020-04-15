@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ImageStyle</key>
+	<dict>
+		<key>imageName</key>
+		<string></string>
+	</dict>
+	<key>LabelStyle</key>
+	<dict>
+		<key>textColor</key>
+		<string></string>
+		<key>textFont</key>
+		<string></string>
+		<key>backgroundColor</key>
+		<string></string>
+	</dict>
+	<key>ViewStyle</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string></string>
+	</dict>
+	<key>TabBarStyle</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string></string>
+		<key>textFontHighlight</key>
+		<string></string>
+		<key>textFontNormal</key>
+		<string></string>
+		<key>textColorHighlight</key>
+		<string></string>
+		<key>textColorNormal</key>
+		<string></string>
+		<key>imageColorHighlight</key>
+		<string></string>
+		<key>imageColorNormal</key>
+		<string></string>
+	</dict>
+	<key>NavigationStyle</key>
+	<dict>
+		<key>backgroundColor</key>
+		<string></string>
+		<key>textColor</key>
+		<string></string>
+		<key>textFont</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>
