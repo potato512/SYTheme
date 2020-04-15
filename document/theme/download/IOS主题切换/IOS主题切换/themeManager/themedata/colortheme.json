@@ -1,0 +1,40 @@
+
+
+{
+    "service":"服务",
+    
+    "navbar":"导航栏颜色-白色",
+    "navbar":"#ffffff",
+    
+    "navtitle":"标题颜色-黑色",
+    "navtitle":"#333333",
+    
+    "bgcolor":"背景色-白色",
+    "bgcolor":"#ffffff",
+    
+    "white":"白色",
+    "white":"#ffffff",
+    
+    "black":"黑色",
+    "black":"#333333",
+    
+    "blue":"蓝色(0,172,235)",
+    "blue":"#00aceb",
+    
+    "gray":"灰色(153，153，153)",
+    "gray":"#999999",
+    
+    "lightgray":"浅灰色(153，153，153)",
+    "lightgray":"#E8E8E8",
+    
+    "red":"红色(255，51，51)",
+    "red":"#FF3333",
+    
+    "yellow":"黄色(252，163，23)",
+    "yellow":"#FCA317",
+    
+    "subviewBGColor":"#991199",
+    "btnBGColor":"#ff9a35",
+    "btntitlecolor":"#eb1e00",
+    
+}
